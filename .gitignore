@@ -16,9 +16,6 @@ venv/
 ENV/
 env/
 
-# VS Code settings
-.vscode/
-
 # Database files
 *.db
 *.sqlite3
